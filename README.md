@@ -1,4 +1,5 @@
-# 🦹‍♂️ La Legión del Mal desde local
+
+# 🦹‍♂️ La Legión del Mal desde Remoto y Local
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
