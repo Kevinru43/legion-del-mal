@@ -6,6 +6,8 @@
 4. Joker
 5. Harley Quinn
 6. Darkseid
+7. Marino
+8. Kevin
 
 # Notas
 
