@@ -49,3 +49,5 @@ Morbius (2022)
 Madame Web (2024)
 
 Kraven the Hunter (2024)
+
+Entre otros
