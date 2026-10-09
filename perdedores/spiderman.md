@@ -51,3 +51,14 @@ Madame Web (2024)
 Kraven the Hunter (2024)
 
 Entre otros
+
+Conocidos:
+Tía May (May Parker): Su figura materna y el pilar emocional más importante en la vida de Peter.
+
+Tío Ben (Ben Parker): Su tío y mentor, cuya trágica muerte inspira a Peter a asumir el camino del héroe.
+
+Mary Jane Watson: El gran amor de Peter Parker y su esposa en diversas líneas temporales, famosa por su icónica frase "Afróntalo, tigre... te acaba de tocar la lotería".
+
+Gwen Stacy: Su primer gran amor de la etapa universitaria, cuya trágica muerte a manos del Duende Verde marcó de forma definitiva la historia de Spider-Man.
+
+Felicia Hardy (Black Cat / Gata Negra): Antiheroína, ladrona de joyas y aliada recurrente que ha mantenido una relación romántica y de complicidad con Spider-Man.
